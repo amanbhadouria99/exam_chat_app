@@ -17,7 +17,7 @@ const Login = () => {
              >
 
               <GoogleOutlined /> Sign in with Google
-            </div>git init
+            </div>
 
          <br /> <br />
 
